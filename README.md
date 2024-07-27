@@ -1,1 +1,1 @@
-# jeonck-YouTubeTranscriptExtractor
+# YouTubeTranscriptExtractor
